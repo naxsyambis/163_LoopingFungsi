@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="looping kalimat.cpp">
+    <ClCompile Include="looping for.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
